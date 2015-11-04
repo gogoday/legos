@@ -1,0 +1,39 @@
+{
+  "name": "legos",
+  "description": "a lot of functions.",
+  "version": "0.1.0",
+  "homepage": "http://blog.jihua.com",
+  "author": {
+    "name": "gogoday",
+    "email": "wsf_1234567@126.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gogoday/legos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p_jdsfwang/legos/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://blog.jihua.com/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/legos",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt": "~0.4.5"
+  },
+  "keywords": []
+}
