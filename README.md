@@ -41,6 +41,8 @@ Bocoup.utils.awesome(); // "awesome"
 ## Documentation
 _(Coming soon)_
 
+[gruntjs](http://www.gruntjs.net/getting-started#grunt)
+
 ## Examples
 _(Coming soon)_
 
